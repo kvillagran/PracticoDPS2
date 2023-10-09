@@ -1,7 +1,7 @@
 Integrantes:
 
--Kevin Alexis Ascencio Villagrán - AV180327
--José Miguel Chávez Martínez - CM180362
+-Kevin Alexis Ascencio Villagrán - AV180327 (EJERCICIO 2)
+-José Miguel Chávez Martínez - CM180362 (EJERCICIO 1)
 -----------------------------------------------------------------
 
 NickNames Github:
@@ -12,5 +12,5 @@ NickNames Github:
 
 Links:
 
--Repositorio:git@github.com:kvillagran/PracticoDPS_N2.git
--Video:
+-Repositorio: https://github.com/kvillagran/PracticoDPS2
+-Video: https://drive.google.com/file/d/1L-r_JXLhQ94_4K88ZaNgfW2zyK2ZdTCq/view?usp=sharing
